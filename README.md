@@ -1,2 +1,3 @@
-# sampling-2-cluster-design
-This assignment applies cluster sampling to estimate the population mean. It determines the required number of clusters, examines sampling bias, and evaluates expected survey cost and time. The experiment design is visualized and documented using reproducible code shared via GitHub.
+# Sampling 2 – Cluster Sampling
+
+This repository contains code and analysis for estimating the population mean using cluster sampling, including required number of clusters, bias analysis, cost and time evaluation, and experiment design visualization.
